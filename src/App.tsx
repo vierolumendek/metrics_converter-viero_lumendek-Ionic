@@ -172,7 +172,7 @@ const App: React.FC = () => {
   return (
     <IonApp>
       <IonHeader>
-        <IonToolbar color={'#61677A'}>
+        <IonToolbar color={'medium'}>
           <IonTitle>Metric Converter</IonTitle>
           <IonTitle size='small' >By: Viero Lumendek</IonTitle>
         </IonToolbar>
